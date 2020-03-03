@@ -10,3 +10,5 @@ If you have cloned my program, you can run it and it will do some testing of the
 - reorder_size()
 - random_upper_lower()
 - backwards(): an additional function, which returns a string with each word spelled backwards.
+
+The required argument for all the functions is some text, except for in the reorder_size() function, which additionally requires a number as a second argument. 
